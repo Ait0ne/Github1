@@ -1,2 +1,2 @@
 # Github1
-Main repository for my project while learning
+Pnig Pong Game made with Python.
